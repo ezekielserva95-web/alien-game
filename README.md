@@ -18,8 +18,6 @@
 
 ![Alt text](Screenshots/Screenshot_2026-09-07-18-02-29-76.png)
 
-#dd
-
 ![Alt text](Screenshots/Screenshot_2026-09-07-18-02-45-90.png)
 
 ![Alt text](Screenshots/Screenshot_2026-09-07-18-03-04-13.png)
